@@ -1,0 +1,8 @@
+{
+  "chainId": 5042002,
+  "rpc": "https://rpc.testnet.arc.network",
+  "contract": "ArcHamlethaphiSketchProofHub",
+  "address": "0xf141802238A5f0B29faED31425D28Cf02BA019d0",
+  "txHash": "0xce739541976488f8e8c957d0c1ebf20b67db1fcbf7eb14710ec1ed98416f03ec",
+  "deployer": "0xF226712E3Bb91156E985eb995E1ae524Ca8896EC"
+}
